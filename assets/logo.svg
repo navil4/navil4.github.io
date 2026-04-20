@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 432 432">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .05em;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        letter-spacing: .04em;
+      }
+
+      .cls-4 {
+        fill: #c2611f;
+        font-family: SourceSerifVariable-Roman, 'Source Serif Variable';
+        font-size: 61px;
+        font-variation-settings: 'wght' 389;
+      }
+
+      .cls-5 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-6 {
+        letter-spacing: .05em;
+      }
+
+      .cls-7 {
+        fill: #552402;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" width="432" height="432"/>
+  <g id="Layer_1" data-name="Layer 1">
+    <path class="cls-7" d="M126.95,309.99c-18.59,1.02-36.65.98-54.98,0-4.43-.24-8.33-.62-12.62-2,1.12-1.48,2.54-1.72,4.17-2.07,9.21-1.99,18.03-4.43,26.65-8.24l5.08-5.39v-63.6c-2.99-1.3-4.73-3.49-5.07-6.63-21.41-4.61-35.92-23.02-37.6-44.43-1.46-18.54,5.2-41.04,13.59-57.47,1.32-2.59,2.75-4.74,4.58-7.05h57.69c2.33,3.06,4.16,6.08,5.82,9.57,7.89,16.61,14.22,38.71,12.05,57.21-2.4,20.46-16.87,37.77-37.34,42.18-.4,3.11-2.11,5.32-5.12,6.58v63.83s5.05,5.24,5.05,5.24c8.84,3.87,17.87,6.3,27.29,8.35,1.37.3,2.54.52,3.3,2.05-4.24,1.15-7.96,1.61-12.54,1.87ZM72.04,187.81c-4.13-22.13-3.16-45.76,4.9-67.03-12.19,15.34-17.18,41.01-14.92,60.09,1.6,13.53,9.51,24.81,21.78,30.62-7.15-7.97-9.35-13.44-11.76-23.67Z"/>
+    <text class="cls-4" transform="translate(154.68 161.42)"><tspan class="cls-6" x="0" y="0">B</tspan><tspan class="cls-3" x="41.36" y="0">a</tspan><tspan class="cls-1" x="74.79" y="0">y </tspan><tspan class="cls-5" x="0" y="73.2">T</tspan><tspan class="cls-6" x="35.5" y="73.2">er</tspan><tspan class="cls-3" x="98.27" y="73.2">r</tspan><tspan class="cls-1" x="126.33" y="73.2">ace</tspan><tspan class="cls-6" x="0" y="146.4">Liq</tspan><tspan class="cls-3" x="97.54" y="146.4">u</tspan><tspan class="cls-6" x="135.48" y="146.4">o</tspan><tspan class="cls-3" x="171.96" y="146.4">r</tspan><tspan class="cls-6" x="200.02" y="146.4">s</tspan></text>
+    <text/>
+  </g>
+</svg>
