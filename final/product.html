@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+
+    <style>
+
+      .border {
+        border-style: solid;
+      }
+
+      .logo {
+        width: 25%;
+      }
+
+      .icon {
+        width:40%;
+      }
+
+      .my-button {
+        background-color: #c2611f;
+      }
+
+      .btn-primary:hover {
+        background-color: #552402;
+      }
+      
+      h1 {
+      margin-top: 50px;
+      }
+
+      .product-title {
+      font-size: 1.9rem;
+      margin-bottom: 0.5rem;
+     }
+
+      .product-volume {
+      font-size: 1.75rem;
+      margin-bottom: 1.25rem;
+      }
+
+      .product-price {
+      font-size: 1.75rem;
+      font-weight: 700;
+      margin-bottom: 1.75rem;
+      }
+
+    .description-label {
+      margin-top: 4em;
+      font-weight: 700;
+      font-size: 1.25rem;
+      margin-bottom: 0.4rem;
+    }
+
+    .description-text {
+      font-size: 1.23rem;
+      line-height: 1.7;
+    }
+    </style>
+
+
+
+
+  </head>
+  <body>
+
+      <div class="container-fluid p-4">
+        <div class="row">
+          <div class="col-3">
+
+              <a href="index.html"><img src="img/logo.svg" class="logo"></a>
+
+          </div>
+
+              <div class="col-6">
+          </div>
+
+          <div class="col-3">
+                <ul class="nav">
+                  <li class="nav-item">
+                    <a class="nav-link" href="login.html"><img src="img/profile.svg" class="icon"></a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="support.html"><img src="img/heart.svg" class="icon"></a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#"><img src="img/cart.svg" class="icon"></a>
+                  </li>
+                </ul>
+          </div>
+
+
+        </div>
+      </div>
+
+    <div class="containter border">
+      <div class="row border">
+
+        <div class="col border">
+          <div class="card">
+  <img src="img/liquor4.png" class="card-img-top" alt="...">
+  <div class="card-body">
+  </div>
+</div>
+        </div>
+
+        <div class="col border">
+            <h1 class="product-title">Josh Cellars Cabernet Sauvignon</h1>
+            <p class="product-volume">750 mL</p>
+            <p class="product-price">$13.99</p>
+           <input type="number" id="stepper1" min="1" max="10" value="1">
+
+    <a href="#" class="btn btn-primary my-button">Add to Cart</a>
+
+
+
+            <p class="description-label">Description:</p>
+            <p class="description-text">
+              Round and juicy, this Cabernet Sauvignon has flavors of blackberry,
+              toasted hazelnut and cinnamon, complemented by hints of vanilla and
+              toasted oak. We love pairing this wine with well-seasoned meats like
+              beef, pork, or lamb, and indulgent chocolate desserts.
+            </p>
+        </div>
+
+        </div>
+
+
+
+   
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+  </body>
+</html>
